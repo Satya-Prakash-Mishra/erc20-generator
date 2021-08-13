@@ -19,7 +19,7 @@ export default {
           removeCopyright: false,
           originalPrice: 0,
           price: 0,
-          gas: 1163434,
+          gas: 942275,
         },
         {
           name: 'StandardERC20',
@@ -38,7 +38,7 @@ export default {
           removeCopyright: true,
           originalPrice: 0,
           price: 0,
-          gas: 1123801,
+          gas: 942275,
         },
         {
           name: 'BurnableERC20',
@@ -57,7 +57,7 @@ export default {
           removeCopyright: true,
           originalPrice: 0,
           price: 0,
-          gas: 1330812,
+          gas: 942275,
         },
         {
           name: 'MintableERC20',
@@ -76,7 +76,7 @@ export default {
           removeCopyright: true,
           originalPrice: 0,
           price: 0,
-          gas: 1502638,
+          gas: 942275,
         },
         {
           name: 'PausableERC20',
@@ -95,7 +95,7 @@ export default {
           removeCopyright: true,
           originalPrice: 0,
           price: 0,
-          gas: 1367134,
+          gas: 942275,
         },
         {
           name: 'CommonERC20',
@@ -114,7 +114,7 @@ export default {
           removeCopyright: true,
           originalPrice: 0,
           price: 0,
-          gas: 1919665,
+          gas: 942275,
         },
         {
           name: 'UnlimitedERC20',
@@ -133,7 +133,7 @@ export default {
           removeCopyright: true,
           originalPrice: 0,
           price: 0,
-          gas: 2615887,
+          gas: 942275,
         },
         {
           name: 'AmazingERC20',
@@ -152,7 +152,7 @@ export default {
           removeCopyright: true,
           originalPrice: 0,
           price: 0,
-          gas: 2665131,
+          gas: 942275,
         },
         {
           name: 'PowerfulERC20',
@@ -171,7 +171,7 @@ export default {
           removeCopyright: true,
           originalPrice: 0,
           price: 0,
-          gas: 3525945,
+          gas: 942275,
         },
       ],
     };
